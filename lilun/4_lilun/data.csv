@@ -1,0 +1,14 @@
+5 8
+
+A B C D E
+
+A B 1
+A C 7
+A D 4
+A E 8
+B D 2
+D E 4
+E C 2
+C A 1
+
+A E
